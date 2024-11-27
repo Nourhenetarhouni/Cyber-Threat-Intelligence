@@ -1,0 +1,6 @@
+CVE Description,CWE ID
+,CWE-269
+,CWE-20
+"A buffer overflow vulnerability in the kernel of Cisco IOS XR Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition and execute arbitrary code on an affected device. The vulnerability is due to insufficient validation of user-supplied input in the processing of certain protocol packets. An attacker could exploit this vulnerability by sending a crafted packet to an affected device, which could cause the device to crash or allow the attacker to execute arbitrary code.",
+,
+,
